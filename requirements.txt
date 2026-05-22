@@ -1,0 +1,17 @@
+# GLM-OCR Local Runner — Python Dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core model inference
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=5.3.0
+huggingface_hub>=0.25.0
+accelerate>=0.30.0
+sentencepiece>=0.2.0
+pillow>=10.0.0
+
+# GUI
+PyQt6>=6.6.0
+
+# Optional: faster image loading
+opencv-python-headless>=4.9.0
