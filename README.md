@@ -221,7 +221,7 @@ python glm_ocr_local.py --image form.png --mode json
 الأداء بطيء جداً	تشغيل النموذج على CPU بطيء متوقع (10-60 ثانية لكل صورة). للحصول على سرعة أفضل استخدم GPU أو نموذجاً أصغر
 الشكر والإسناد
 النموذج: zai-org/GLM-OCR – نموذج رؤية‑لغة بحجم 0.9 مليار معلمة
-
+ https://huggingface.co/zai-org/GLM-OCR
 تم البناء باستخدام HuggingFace Transformers و PyTorch
 
 الواجهة الرسومية: PyQt6
